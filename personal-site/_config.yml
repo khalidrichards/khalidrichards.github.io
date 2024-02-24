@@ -21,15 +21,15 @@
 title: Khalid Richards
 email: khalid.mrich@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  If you'd like to get in touch with me to discuss professional opportunities, please
+  send an email. If you'd like to reach out to talk about any of my other projects/hobbies,
+  don't hesitate to reach out to me on a social media account!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: khaldrawgo1
 github_username:  khalidrichards
 linkedin_username: khalidrichards
-typing_text: Software Engineer @ Google
+instagram_username: khalidrich
 
 # Build settings
 theme: minima
